@@ -36,7 +36,7 @@ The clean UI is powered by **Streamlit**, and results are visualized through cha
 ## 🏗️ Tech Stack
 
 ### 💻 Frontend
-- [Streamlit](https://streamlit.io/) – Fast, clean UI like Grammarly
+- [Streamlit](https://streamlit.io/) – Fast, clean UI 
 - `Matplotlib` / `Plotly` – For dynamic chart visualizations
 - `streamlit-aggrid` – Tabular displays for matched phrases
 
